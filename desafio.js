@@ -2,13 +2,13 @@
 let nomeHeroi = "Gojo Satoru" 
 
 // 2.Quantidade de experiência (XP) de um herói.
-let quantidadeXp = 10001
+let quantidadeXp = 6805
 
 let nivel =  ""
 
 // 3.Utilize uma estrutura de descisão para apresentar a mensagem.
 
-if(quantidadeXp <=1 ){
+if(quantidadeXp >=0 && quantidadeXp <=1000 ){
     nivel = "Ferro"
 
 } else if (quantidadeXp >=1001 && quantidadeXp <=2000){

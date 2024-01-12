@@ -2,7 +2,7 @@
 let nomeHeroi = "Gojo Satoru" 
 
 // 2.Quantidade de experiência (XP) de um herói.
-let quantidadeXp = 10001
+let quantidadeXp = 1000
 
 // 3.Utilize uma estrutura de descisão para apresentar a mensagem.
 
