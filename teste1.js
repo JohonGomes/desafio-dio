@@ -4,6 +4,8 @@ let nomeHeroi = "Gojo Satoru"
 // 2.Quantidade de experiência (XP) de um herói.
 let quantidadeXp = 10001
 
+let nivel =  ""
+
 // 3.Utilize uma estrutura de descisão para apresentar a mensagem.
 
 if(quantidadeXp <=1 ){
@@ -32,7 +34,7 @@ if(quantidadeXp <=1 ){
 }
 
 //4. Ao Final exibir mensagem " O Herói de nome _____ está no nível ____"
-console.log("O herói de nome " + nomeHeroi + " está no nível " + quantidadeXp)
+console.log("O herói de nome " + nomeHeroi + " está no nível " + nivel)
 
 
 
