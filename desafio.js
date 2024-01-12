@@ -2,7 +2,7 @@
 let nomeHeroi = "Gojo Satoru" 
 
 // 2.Quantidade de experiência (XP) de um herói.
-let quantidadeXp = 6805
+let quantidadeXp = 500
 
 let nivel =  ""
 
